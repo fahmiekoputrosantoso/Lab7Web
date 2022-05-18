@@ -71,15 +71,3 @@
 
 - Setelah memilih Network Engineer
 ![img15](image/2-s3.PNG)<br><br>
-
-- Method ``POST`` tidak akan menampilkan nilai di url, lebih aman dari ``GET``.
-- Jika belum menekan ``Kirim``, perubahan takan terjadi.
-- Tiap input dan pilihan menyimpan nilai, di file program itu sendiri. <i>peletakan di ``<form action="" ..></i>.
-- Nama diambil dari atribut ``name=nama`` pada kode html.
-- Penentuan usia, dimulai dengan penanggalan saat ini ``$today`` dikurangi dengan tanggal lahir pengguna ``$date_user``. Kemudian ambil tahunnya saja. ``->y``
-- Versi awal ini dibuat pada, ``17-05-2022``. Sehingga jika dihitung dengan tanggal lahir pada gambar tersebut, belum genap 20.
-- Pilihan pekerjaan dengan menggunakan array.
-    - Array pertama berisi profesi ``$job_array``
-    - Array kedua berisi gaji ``$salary_array``
-- Kemudian, pengguna akan memilih. Dimulai dari angka <b>0, 1, dan 2.</b>
-- Terakhir, tampilkan hasil seluruh proses dengan ``echo``
