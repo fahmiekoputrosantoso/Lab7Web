@@ -54,6 +54,10 @@
 ## <b>11. Perulangan Dowhile</b>
 ![img11](image/0-11_dowhile.PNG)
 
+# OUTPUT
+![img16](image/OUT1.PNG)
+![img17](image/OUT2.PNG)
+![img18](image/OUT3.PNG)
 # TUGAS
 <b>1. Buatlah program PHP sederhana dengan menggunakan form input yang menampilkan nama, tanggal lahir dan pekerjaan. Kemudian tampilkan outputnya dengan menghitung umur berdasarkan inputan tanggal lahir. Dan pilihan pekerjaan dengan gaji yang  berbeda-beda sesuai pilihan pekerjaan.</b><br>
 # Jawaban: <br>
